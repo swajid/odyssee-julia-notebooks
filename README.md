@@ -15,3 +15,4 @@
 
 `└── `[`scores`](https://www.tiktok.com/@timmy_josten/video/7649617685499661582)
 
+* https://nbviewer.org/github/swajid/odyssee-julia-notebooks/blob/main/claude-gen_reading_space_curves.ipynb
