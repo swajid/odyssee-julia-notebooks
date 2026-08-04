@@ -17,6 +17,7 @@
 
 * https://nbviewer.org/github/swajid/odyssee-julia-notebooks/blob/main/claude-gen_reading_space_curves.ipynb
 * ty [prof jacobi](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi) for helping me understand so much about myself this summer & what i am all about, sorry u died so young of small pox.
+* all i knew about [lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) was the [lagrande point](https://en.wikipedia.org/wiki/Lagrange_point) rabbit hole for another day, bc i dont know did he actually define those himself (like what, how) or did ppl name it after him, i dunno -- for later
 
 
 <!-- whenever i get pushed into this "role" as the "right-hand" person, it happens within my friend groups (since hs), its happens @ work esp when i was in industry (i.e. the "go to" person that advises the manager & then they train me even more to be like that, like to be better @ that etc.), **i'm not offended** bc i understand the historical & political significance of that role. its not a "lesser" position (bc its not "glamorized"), it's its own thing. you can't compare it to anything else, it's its own thing. ahh but now i understand things, so now im even more busy. -->
