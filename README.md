@@ -2,7 +2,7 @@
 ## French for "odyssey," a long and adventurous journey
 (also a [Nolan movie, out this month](https://en.wikipedia.org/wiki/The_Odyssey_(2026_film)).
 
-* this repos is a math "[sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security))" -> the explore/figure it out **now** (i.e. for myself, use every second of the day, think critically & produce evidence) before it's set in stone
+* this repos is a math "[sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security))" -> the explore/figure it out **now** (i.e. for myself, use every second of the day, think critically & produce evidence) before it's set in stone (i.e. "[say yes to things until you're 40](https://www.instagram.com/reel/DcBpmYNFCay/)")
 
 ### A collection of interactive Julia notebooks on vector geometry, vector-valued functions, arc length & curvature, and beyond. This repos is for future references, for years/decades to follow.
 
