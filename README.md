@@ -27,3 +27,6 @@
 * calc4 is a boring class -> but with this link to cancer/biochem/biophysics/pdb it's interesting (to me .. haha bc idc about a harmonic spring irl)
 * oh claude didnt have in its memory (i dunno why) that i already took linear algebra in undergrad but i added it
 <!-- whenever i get pushed into this "role" as the "right-hand" person, it happens within my friend groups (since hs), its happens @ work esp when i was in industry (i.e. the "go to" person that advises the manager & then they train me even more to be like that, like to be better @ that etc.), **i'm not offended** bc i understand the historical & political significance of that role. its not a "lesser" position (bc its not "glamorized"), it's its own thing. you can't compare it to anything else, it's its own thing. ahh but now i understand things, so now im even more busy. -->
+
+
+![img](The-Architecture-of-Convergence.png)
