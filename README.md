@@ -18,7 +18,7 @@
 `└── `[`scores`](https://www.tiktok.com/@timmy_josten/video/7649617685499661582)
 
 * https://nbviewer.org/github/swajid/odyssee-julia-notebooks/blob/main/claude-gen_reading_space_curves.ipynb
-* ty [prof jacobi](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi) for helping me understand so much about myself this summer & what i am all about, sorry u died so young of small pox.
+* ty [prof jacobi](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi) for helping me understand so much about myself this summer & what i am all about, sorry u died so young of small pox. omgg there could be a box within an oreilly book chapter, for 1 page about prof jacobi + small pox vaccination in the 1800s (public health)
 * all i knew about [lagrange](https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) was the [lagrande point](https://en.wikipedia.org/wiki/Lagrange_point) rabbit hole for another day, bc i dont know did he actually define those himself (like what, how) or did ppl name it after him, i dunno -- for later
 * [abel's identity](https://en.wikipedia.org/wiki/Abel%27s_identity) -- we cover/comes up next week
 * "[if i cant scuba then what's this all been about? what am **i** working toward](https://www.youtube.com/watch?v=NAdQyjpOfrs)" -> replace "scuba" with "wronskian" but like for "cancer genomics" or something .. i dunno
